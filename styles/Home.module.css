@@ -38,8 +38,7 @@
 }
 
 .title a {
-  color: #0070f3;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .title a:hover,
@@ -62,6 +61,23 @@
 .description {
   line-height: 1.5;
   font-size: 1.5rem;
+}
+
+.description a {
+  color: #0C75FF;
+  text-decoration: none;
+}
+
+.description a:hover,
+.description a:focus,
+.description a:active {
+  text-decoration: underline;
+  color: #0C75FF
+}
+
+.subtitle {
+  line-height: 1.5;
+  font-size: 1.0rem;
 }
 
 .code {
@@ -98,8 +114,8 @@
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  color: #0C75FF;
+  border-color: #0C75FF;
 }
 
 .card h3 {
