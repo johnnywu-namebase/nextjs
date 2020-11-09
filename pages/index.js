@@ -25,7 +25,7 @@ export default function Home() {
         </p>
 
         <p className={styles.description}>
-          To help showcase interesting uses of Handshake names, the <a href="https://discord.com/invite/V3aTrkp">Namer Community</a> is running a Name Contest! The top 5 Namers with the most creative uses of Handshake names will each win free <a href="https://shop.namebase.io/">Director of Handshake T-shirts</a>. Existing examples of creative name uses include <a href="http://jingle.bells.hns.to/">jingle.bells/</a> and <a href="http://firstruleof.xn--club-4p14c.hns.to/">firstruleof.🥊club/</a>.
+          To help showcase interesting uses of Handshake names, the <a href="https://discord.com/invite/V3aTrkp">Namer Community</a> is running a Name Contest! The top 5 Namers with the most creative uses of resolving Handshake names will each win free <a href="https://shop.namebase.io/">Director of Handshake T-shirts</a>. Existing examples of creative name uses include <a href="http://jingle.bells.hns.to/">jingle.bells/</a> and <a href="http://firstruleof.xn--club-4p14c.hns.to/">firstruleof.🥊club/</a>. If you have an idea but need help with building it, ask for support in the <a href="https://discord.com/invite/V3aTrkp">Namer Community</a>!
         </p>
     
         <p className={styles.description}>
@@ -33,21 +33,21 @@ export default function Home() {
         </p>
     
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSefcscLso04_TIvxCS7tDsheQnROnFjQ7aKjmdzl0x-nCVxXw/viewform?usp=sf_link" className={styles.card}>
             <h3>Submit Name &rarr;</h3>
             <p>Submit a name for the Name Contest!</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSefcscLso04_TIvxCS7tDsheQnROnFjQ7aKjmdzl0x-nCVxXw/viewform?usp=sf_link" className={styles.card}>
+            <h3>Vote &rarr;</h3>
+            <p>Community voting will open on November 23rd!</p>
           </a>
         </div>
       </main>
 
     <footer>
       <a
-        href="https://www.namebase.io/">
+        href="https://discord.com/invite/V3aTrkp">
         <img src="/Namer Community Logo.gif" alt="Namebase Logo" width="70" height="70"/>
       </a>
     </footer>
