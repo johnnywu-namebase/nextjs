@@ -50,10 +50,12 @@ export default function Home() {
         <p className={styles.subtitle}>
           Happy naming!
         </p>
+    <p>
       <a
         href="https://discord.com/invite/V3aTrkp">
         <img src="/Namer Community Logo.gif" alt="Namebase Logo" width="70" height="70"/>
       </a>
+    </p>
     </footer>
     
     </div>
