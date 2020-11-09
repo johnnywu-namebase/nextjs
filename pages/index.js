@@ -43,12 +43,13 @@ export default function Home() {
             <p>Community voting will open on November 23rd!</p>
           </a>
         </div>
-        <p className={styles.subtitle}>
-          Happy naming!
-        </p>
+
       </main>
 
     <footer>
+        <p className={styles.subtitle}>
+          Happy naming!
+        </p>
       <a
         href="https://discord.com/invite/V3aTrkp">
         <img src="/Namer Community Logo.gif" alt="Namebase Logo" width="70" height="70"/>
