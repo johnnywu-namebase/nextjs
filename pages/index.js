@@ -5,13 +5,14 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Name contest</title>
+        <title>Name Contest</title>
         <link rel="icon" href="/favicon.png" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          <a href="https://www.handshake.org/"><img src="/logo.png" alt="Handshake Logo" height="200"/>
+      </a> Name Contest
         </h1>
 
         <p className={styles.description}>
