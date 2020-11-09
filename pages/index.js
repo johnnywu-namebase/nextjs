@@ -12,7 +12,7 @@ export default function Home() {
       <main className={styles.main}>
 
         <h1 className={styles.title}>
-         <a href="https://www.handshake.org/"><img src="/favicon.png" alt="Handshake Logo" height="100"/>
+         <a href="https://www.handshake.org/"><img src="/favicon.png" alt="Handshake Logo" height="80"/>
       </a> Name Contest
         </h1>
 
