@@ -16,7 +16,7 @@ export default function Home() {
       </a> Name Contest
         </h1>
     
-        <p className={styles.description}>
+        <p className={styles.subtitle}>
           November 8th, 2020 to November 22nd, 2020
         </p>
 
