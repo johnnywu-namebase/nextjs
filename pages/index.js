@@ -12,7 +12,7 @@ export default function Home() {
       <main className={styles.main}>
 
         <h1 className={styles.title}>
-         <a href="https://www.handshake.org/"><img src="/favicon.png" alt="Handshake Logo" height="70"/>
+         <a href="https://www.handshake.org/"><img src="/favicon.png" alt="Handshake Logo" height="100"/>
       </a> Name Contest
         </h1>
 
@@ -21,7 +21,7 @@ export default function Home() {
         </p>
 
         <p className={styles.description}>
-          Handshake is a community-run decentralized blockchain built to dismantle ICANN&#39;s monopoly on top-level domains.
+          To help showcase interesting uses of Handshake names, the <a href="https://discord.com/invite/V3aTrkp">Namer Community</a> is running a Name Contest! The top 5 Namers with the most creative uses of Handshake names will each win free <a href="https://shop.namebase.io/">Director of Handshake T-shirts</a>.
         </p>
     
     
