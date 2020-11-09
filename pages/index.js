@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-      <a href="https://www.handshake.org/"><img src="/logo.png" alt="Handshake Logo" height="200"/>
+      <a href="https://www.handshake.org/"><img src="/favicon.png" alt="Handshake Logo" height="200"/>
       </a>
         <h1 className={styles.title}>
            Name Contest
@@ -55,7 +55,7 @@ export default function Home() {
     <footer>
       <a
         href="https://www.namebase.io/">
-        <img src="https://pbs.twimg.com/profile_images/1042164618259456000/FxRjrkBL_400x400.jpg" alt="Namebase Logo" width="100" height="100"/>
+        <img src="/Namer Community Logo.gif" alt="Namebase Logo" width="100" height="100"/>
       </a>
     </footer>
     
