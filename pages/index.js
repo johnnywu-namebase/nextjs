@@ -29,7 +29,7 @@ export default function Home() {
         </p>
     
         <p className={styles.description}>
-          Please use the submission form below to submit your name. 
+          Please use the submission form below to submit your name. Winners will be decided through community voting, which will open from November 23rd to November 29th.
         </p>
     
         <div className={styles.grid}>
