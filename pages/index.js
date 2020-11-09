@@ -10,10 +10,10 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-      <a href="https://www.handshake.org/"><img src="/favicon.png" alt="Handshake Logo" height="200"/>
-      </a>
+
         <h1 className={styles.title}>
-           Name Contest
+         <a href="https://www.handshake.org/"><img src="/favicon.png" alt="Handshake Logo" height="200"/>
+      </a> Name Contest
         </h1>
 
         <p className={styles.description}>
