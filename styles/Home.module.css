@@ -64,7 +64,7 @@
 }
 
 .description a {
-  color: #0C75FF;
+  color: #FEAE00;
   text-decoration: none;
 }
 
@@ -77,7 +77,7 @@
 
 .subtitle {
   line-height: 1.5;
-  font-size: 1.0rem;
+  font-size: 1.2rem;
 }
 
 .code {
