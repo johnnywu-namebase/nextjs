@@ -20,7 +20,7 @@ export default function Home() {
           November 8th, 2020 to November 22nd, 2020
         </p>
 
-        <p className={styles.subtitle}>
+        <p className={styles.description}>
           Handshake is a community-run decentralized blockchain built to dismantle ICANN&#39;s monopoly on top-level domains.
         </p>
 
