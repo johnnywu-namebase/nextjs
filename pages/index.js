@@ -15,20 +15,27 @@ export default function Home() {
          <a href="https://www.handshake.org/"><img src="/favicon.png" alt="Handshake Logo" height="100"/>
       </a> Name Contest
         </h1>
-
+    
         <p className={styles.description}>
+          November 8th, 2020 to November 22nd, 2020
+        </p>
+
+        <p className={styles.subtitle}>
           Handshake is a community-run decentralized blockchain built to dismantle ICANN&#39;s monopoly on top-level domains.
         </p>
 
         <p className={styles.description}>
-          To help showcase interesting uses of Handshake names, the <a href="https://discord.com/invite/V3aTrkp">Namer Community</a> is running a Name Contest! The top 5 Namers with the most creative uses of Handshake names will each win free <a href="https://shop.namebase.io/">Director of Handshake T-shirts</a>.
+          To help showcase interesting uses of Handshake names, the <a href="https://discord.com/invite/V3aTrkp">Namer Community</a> is running a Name Contest! The top 5 Namers with the most creative uses of Handshake names will each win free <a href="https://shop.namebase.io/">Director of Handshake T-shirts</a>. Existing examples of creative name uses include <a href="http://jingle.bells.hns.to/">jingle.bells/</a> and <a href="http://firstruleof.xn--club-4p14c.hns.to/">firstruleof.🥊club/</a>.
         </p>
     
+        <p className={styles.description}>
+          Please use the submission form below to submit your name. 
+        </p>
     
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <h3>Submit Name &rarr;</h3>
+            <p>Submit a name for the Name Contest!</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
