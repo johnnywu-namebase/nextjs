@@ -36,7 +36,7 @@ export default function Home() {
     <footer>
       <a
         href="https://www.namebase.io/">
-        <img src="/Namer Community Logo.gif" alt="Namebase Logo" width="100" height="100"/>
+        <img src="/Namer Community Logo.gif" alt="Namebase Logo" width="75" height="75"/>
       </a>
     </footer>
     
