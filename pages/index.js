@@ -43,6 +43,9 @@ export default function Home() {
             <p>Community voting will open on November 23rd!</p>
           </a>
         </div>
+        <p className={styles.subtitle}>
+          Happy naming!
+        </p>
       </main>
 
     <footer>
