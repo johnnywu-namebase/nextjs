@@ -12,7 +12,7 @@ export default function Home() {
       <main className={styles.main}>
 
         <h1 className={styles.title}>
-         <a href="https://www.handshake.org/"><img src="/favicon.png" alt="Handshake Logo" height="50"/>
+         <a href="https://www.handshake.org/"><img src="/favicon.png" alt="Handshake Logo" height="70"/>
       </a> Name Contest
         </h1>
 
@@ -20,6 +20,11 @@ export default function Home() {
           Handshake is a community-run decentralized blockchain built to dismantle ICANN&#39;s monopoly on top-level domains.
         </p>
 
+        <p className={styles.description}>
+          Handshake is a community-run decentralized blockchain built to dismantle ICANN&#39;s monopoly on top-level domains.
+        </p>
+    
+    
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
@@ -36,7 +41,7 @@ export default function Home() {
     <footer>
       <a
         href="https://www.namebase.io/">
-        <img src="/Namer Community Logo.gif" alt="Namebase Logo" width="40" height="40"/>
+        <img src="/Namer Community Logo.gif" alt="Namebase Logo" width="70" height="70"/>
       </a>
     </footer>
     
