@@ -25,7 +25,7 @@ export default function Home() {
         </p>
 
         <p className={styles.description}>
-          To help showcase interesting uses of Handshake names, the <a href="https://discord.com/invite/V3aTrkp">Namer Community</a> is running a Name Contest! The top 5 Namers with the most creative resolving Handshake names will each win free <a href="https://shop.namebase.io/">Director of Handshake T-shirts</a>. Existing examples of creative name uses include <a href="http://jingle.bells.hns.to/">jingle.bells/</a> and <a href="http://firstruleof.xn--club-4p14c.hns.to/">firstruleof.🥊club/</a>. If you have an idea but need help with building it, ask for support in the <a href="https://discord.com/invite/V3aTrkp">Namer Community</a>!
+          To help showcase interesting uses of Handshake names, the <a href="https://discord.com/invite/V3aTrkp">Namer Community</a> is running a Name Contest! The top 5 Namers with the most creative resolving Handshake names will each win 100 HNS and free <a href="https://shop.namebase.io/">Director of Handshake T-shirts</a>. Existing examples of creative name uses include <a href="http://jingle.bells.hns.to/">jingle.bells/</a> and <a href="http://firstruleof.xn--club-4p14c.hns.to/">firstruleof.🥊club/</a>. If you have an idea but need help with building it, ask for support in the <a href="https://discord.com/invite/V3aTrkp">Namer Community</a>!
         </p>
     
         <p className={styles.description}>
