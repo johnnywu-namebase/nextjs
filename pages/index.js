@@ -35,12 +35,12 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://docs.google.com/forms/d/e/1FAIpQLSefcscLso04_TIvxCS7tDsheQnROnFjQ7aKjmdzl0x-nCVxXw/viewform?usp=sf_link" className={styles.card}>
             <h3>Submit Name &rarr;</h3>
-            <p>Submit a name for the Name Contest!</p>
+            <p>Submissions closed November 22nd.</p>
           </a>
 
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSefcscLso04_TIvxCS7tDsheQnROnFjQ7aKjmdzl0x-nCVxXw/viewform?usp=sf_link" className={styles.card}>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaQJNOI-ll0vOyCdV5QmETM3vvaCC_MKi0Hxq1nV1IGN2oUg/viewform?usp=sf_link" className={styles.card}>
             <h3>Vote &rarr;</h3>
-            <p>Community voting will open on November 23rd!</p>
+            <p>Community voting is now live!</p>
           </a>
         </div>
       </main>
