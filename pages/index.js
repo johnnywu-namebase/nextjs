@@ -33,15 +33,13 @@ export default function Home() {
         </p>
     
         <div className={styles.grid}>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaQJNOI-ll0vOyCdV5QmETM3vvaCC_MKi0Hxq1nV1IGN2oUg/viewform?usp=sf_link" className={styles.card}>
             <h3>Submit Name &rarr;</h3>
             <p>Submissions closed as of November 22nd.</p>
-          </a>
 
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaQJNOI-ll0vOyCdV5QmETM3vvaCC_MKi0Hxq1nV1IGN2oUg/viewform?usp=sf_link" className={styles.card}>
+
             <h3>Vote &rarr;</h3>
-            <p>Community voting is now live until November 29th!</p>
-          </a>
+            <p>Voting closed as of November 29th.</p>
+
         </div>
       </main>
       <p className={styles.subtitle}>
